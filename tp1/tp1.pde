@@ -1,3 +1,5 @@
+//Yamile Nazarena Erbes 94700/7
+
 PImage paisa;
 int x = 400;
 void setup() {
